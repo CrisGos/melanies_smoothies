@@ -1,7 +1,6 @@
 # requirements.txt
-snowflake-connector-python
+pip uninstall snowflake
+pip install snowflake-connector-python==2.8.3
+
 snowflake-snowpark-python
-snowflake-snowpark
-snowflake-col
-snowflake-snowpark-col
 streamlit==1.31.1
