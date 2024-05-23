@@ -1,5 +1,5 @@
 # requirements.txt
-snowflake
+pip install snowflake
 snowflake-connector-python
 snowflake-snowpark-python
 snowflake.snowpark.functions
