@@ -1,5 +1,4 @@
 # requirements.txt
-uninstall snowflake
 snowflake
 snowflake-connector-python
 snowflake-snowpark-python
